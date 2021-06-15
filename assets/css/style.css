@@ -465,7 +465,7 @@ a:hover {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 100px;
 }
 
 #header.header-scrolled {
@@ -715,7 +715,7 @@ a:hover {
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
-  height: 150vh;
+  height: 100vh;
   position: relative;
   color: #fff;
 }
