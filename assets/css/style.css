@@ -923,7 +923,7 @@ a:hover {
   margin-bottom: 0;
 }
 
-#vid-title {
+#vid-title h1{
   color: #fff;
   font-weight: 600;
   font-size: 3rem;
