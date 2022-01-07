@@ -55,6 +55,32 @@ td {
     padding-bottom: 7px;
 }
 
+.social {
+    margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icons {
+    text-align: center;
+}
+
+.icons img {
+    padding: 5px;
+    height: 30px;
+}
+
+.i {
+    background-image: linear-gradient(to bottom right, violet,red, yellow);
+}
+
+.t {
+    background-image: linear-gradient(to bottom right, rgb(99, 205, 209), white);
+}
+
+.l {
+    background-image: linear-gradient(to bottom right, rgb(51, 173, 255), white);
+}
 .controls {
     text-align: center;
     padding: 10px;
