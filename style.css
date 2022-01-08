@@ -127,10 +127,6 @@ td {
     margin-right: auto;
 }
 
-.enlarge:hover {
-    transform: scale(2.5);
-}
-
 .project-title {
     margin-top: 3%;
     margin-left: auto;
