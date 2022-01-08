@@ -106,7 +106,7 @@ td {
 }
 
 .aboutme th {
-    background-color: cadetblue;
+    background-color: rgb(204, 114, 31);
     color: #FFFFCC;
     font-size: 30px;
 }
@@ -124,7 +124,7 @@ td {
 }
 
 .project-title th {
-    background-color: cadetblue;
+    background-color: rgb(44, 204, 70);
     color: #FFFFCC;
     font-size: 30px;
 }
@@ -151,6 +151,10 @@ td {
 .text {
     font-size: 25px;
     padding: 20px;
+}
+
+.guy-image {
+    padding: 30px;
 }
 
 .copy {
