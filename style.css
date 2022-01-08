@@ -117,6 +117,10 @@ td {
     margin-right: auto;
 }
 
+.enlarge:hover {
+    transform: scale(2.5);
+}
+
 .project-title {
     margin-top: 3%;
     margin-left: auto;
@@ -155,6 +159,7 @@ td {
 
 .guy-image {
     padding: 30px;
+    width: 30%;
 }
 
 .copy {
