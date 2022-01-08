@@ -102,6 +102,8 @@ td {
 }
 
 .audio-width {
+    margin-top: auto;
+    margin-bottom: auto;
     width: 100%;
 }
 
