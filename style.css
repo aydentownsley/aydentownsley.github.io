@@ -71,6 +71,10 @@ td {
     height: 30px;
 }
 
+.g {
+    background-image: linear-gradient(to bottom right, rgb(85, 194, 85), rgb(89, 117, 177));
+}
+
 .i {
     background-image: linear-gradient(to bottom right, violet,red, yellow);
 }
