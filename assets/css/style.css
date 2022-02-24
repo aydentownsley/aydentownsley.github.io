@@ -12,6 +12,9 @@
 # My Custon additions
 */
 
+.h1 {
+    font-weight: bold;
+}
 .social {
   display: flex;
   flex-direction: row;
@@ -27,15 +30,22 @@
   height: 30px;
 }
 
-.row {
-  display: flex;
+.column {
+  display: flex-column;
+  justify-content: center;
 }
 
 .about {
   flex: 50%;
 }
 
+.about .image_box {
+  display: flex;
+}
 .about p {
+  padding-left: 20%;
+  padding-right: 20%;
+  justify-content: center;
   font-size: 1.2rem;
   font-weight: bold;
   color: white;
@@ -43,8 +53,11 @@
 }
 
 .about img {
-  width: 75%;
-  margin-left: 12.5%;
+  padding-top: 1%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
 }
 
 .about_sect {
