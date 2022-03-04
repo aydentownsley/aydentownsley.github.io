@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+This website has been modified from a Bootstrap template named devfolio. Much of the design is by me, but it is alwasy better to have a strong base to work from.
 
-Template Name: DevFolio
+
 Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
