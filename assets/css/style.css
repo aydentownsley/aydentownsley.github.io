@@ -57,12 +57,29 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 45%;
+  width: 75%;
 }
 
 .about_sect {
   margin-bottom: 15%;
   background-color: linear-gradient(to right,#291449 0%, #694d00 250%);
+}
+
+#work .work-box{
+  background-color: rgb(42, 42, 42);
+}
+
+#work .w-title {
+  color: white;
+}
+
+#work .w-cont {
+  color: white;
+}
+
+#work .w-cont mark{
+  background-color: rgb(63, 0, 63);
+  color: orange;
 }
 
 /*------------------------------------------------------------------*/
