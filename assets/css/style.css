@@ -57,7 +57,7 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 75%;
+  width: 60%;
 }
 
 .about_sect {
@@ -1127,7 +1127,6 @@ a:hover {
 .card-blog .post-date {
   color: #4e4e4e;
   display: inline-block;
-  float: right;
 }
 
 /*--------------------------------------------------------------
