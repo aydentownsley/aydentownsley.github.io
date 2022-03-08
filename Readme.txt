@@ -1,4 +1,4 @@
-This website has been modified from a Bootstrap template named devfolio. Much of the design is by me, but it is alwasy better to have a strong base to work from.
+This website has been modified from a Bootstrap template named devfolio, much of design has been changed to fit my style. Thanks for visiting.
 
 
 Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/

@@ -82,6 +82,22 @@
   color: orange;
 }
 
+.btn img {
+  display: inline-block;
+  margin-right: 5px;
+  width: 1.25rem;
+  height: 1.25rem;
+}
+.btn {
+  background-color: #0078ff;
+  color: white;
+}
+
+.btn:hover {
+  background-color: orange;
+  color: white;
+}
+
 /*------------------------------------------------------------------*/
 
 body {
