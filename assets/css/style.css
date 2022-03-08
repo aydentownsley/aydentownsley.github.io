@@ -65,8 +65,18 @@
   background-color: linear-gradient(to right,#291449 0%, #694d00 250%);
 }
 
+#work .work-content {
+  padding: 7%;
+}
+
+#work .work-img {
+  border-radius: 25px 25px 0 0;
+}
+
 #work .work-box{
+  border-radius: 25px;
   background-color: rgb(42, 42, 42);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
 }
 
 #work .w-title {
