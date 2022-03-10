@@ -30,6 +30,10 @@
   height: 30px;
 }
 
+.social .i img:hover {
+  opacity: 0.3;
+}
+
 .column {
   display: flex-column;
   justify-content: center;
@@ -108,6 +112,11 @@
   color: white;
 }
 
+.more {
+  text-align: center;
+  color: white;
+  margin-top: 55%;
+}
 /*------------------------------------------------------------------*/
 
 body {
